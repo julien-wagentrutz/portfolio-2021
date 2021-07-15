@@ -1,4 +1,4 @@
-# threejs-template
+# Portfolio - 2021
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
